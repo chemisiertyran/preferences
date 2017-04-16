@@ -7,7 +7,7 @@
         "mocha": true
     },
     "rules": {
-        "no-console": "off",
+        "no-console": "warn",
         "quotes": ["warn", "double"],
         "semi": ["warn", "always"],
         "block-scoped-var": "warn",
